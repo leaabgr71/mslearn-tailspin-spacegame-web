@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/leabourgeron/80de1c90-0ff1-4276-bd3c-82c749891132/93ba09e9-9c19-4119-ab93-6dfa30e356e3/_apis/work/boardbadge/7cadc3c4-c840-47d9-bd5f-db214705fe50)](https://dev.azure.com/leabourgeron/80de1c90-0ff1-4276-bd3c-82c749891132/_boards/board/t/93ba09e9-9c19-4119-ab93-6dfa30e356e3/Microsoft.RequirementCategory)
 
 # Contributing
 
